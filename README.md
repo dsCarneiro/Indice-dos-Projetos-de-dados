@@ -16,4 +16,4 @@
 | [Dashboard 1 do Serenato Café](https://github.com/dsCarneiro/Excel05-Dashboard_do_Serenato_Cafe.git)  | Content Cell  |
 | [Tabela, Formatação Condicional e Filtro Avançado](https://github.com/dsCarneiro/Excel02-Tabela_FormatacaoCondicional_e_FiltroAvancado.git)  | Content Cell  |
 | [Introdução, formatação e gráfico simples](https://github.com/dsCarneiro/Excel01-Introducao-formatacao-e-grafico-simples.git)  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ...  | Content Cell  |
