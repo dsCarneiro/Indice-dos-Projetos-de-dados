@@ -16,4 +16,4 @@
 | [Dashboard 1 do Serenato Café](https://github.com/dsCarneiro/Excel05-Dashboard_do_Serenato_Cafe.git)  |   |
 | [Tabela, Formatação Condicional e Filtro Avançado](https://github.com/dsCarneiro/Excel02-Tabela_FormatacaoCondicional_e_FiltroAvancado.git)  |   |
 | [Introdução, formatação e gráfico simples](https://github.com/dsCarneiro/Excel01-Introducao-formatacao-e-grafico-simples.git)  |   |
-| ...  | ...  |
+| ...  |   |
