@@ -2,12 +2,12 @@
 
 | Excel | PowerBI |
 | ------------- | ------------- |
-| [Dashboard 5 do Serenato Café com PowerQuery e arquivos externos](https://github.com/dsCarneiro/Excel09.3-Dashboard-com-PowerQuery.git)  | Content Cell  |
+| [Dashboard 5 do Serenato Café com PowerQuery e arquivos externos](https://github.com/dsCarneiro/Excel09.3-Dashboard-com-PowerQuery.git)  | [Dashboard da Buscante](https://github.com/dsCarneiro/PowerBI2.git)  |
 | [Dashboard do Meteora 1 e 2](https://github.com/dsCarneiro/Excel11-Dashboard_PowerPivot_e_TBDinamica.git)  | Content Cell  |
-| [Consultas, quadro de resumo, consulta, procX e seerro](https://github.com/dsCarneiro/Excel04-Seerro_Consulta_ProcX_e_QuadroDeResumo.git)  | Content Cell  |
-| [ProcX, Índice e Corresp](https://github.com/dsCarneiro/Excel10-ProcX_Indice_e_Corresp.git)  | Content Cell  |
-| [Macro e Filtro Avançado](https://github.com/dsCarneiro/Excel12-Macro_FiltroAvancado.git)  | Content Cell  |
-| [Dashboard 4 do Serenato Café com PowerQuery](https://github.com/dsCarneiro/Excel09.2-DashBoard-com-PowerQuery.git)  | Content Cell  |
+| [Consultas, quadro de resumo, consulta, procX e seerro](https://github.com/dsCarneiro/Excel04-Seerro_Consulta_ProcX_e_QuadroDeResumo.git)  | [Dashboard de Vendas](https://github.com/dsCarneiro/PowerBI7.git)  |
+| [ProcX, Índice e Corresp](https://github.com/dsCarneiro/Excel10-ProcX_Indice_e_Corresp.git)  | [Dashboard da Gatito](https://github.com/dsCarneiro/PowerBI1.git)  |
+| [Macro e Filtro Avançado](https://github.com/dsCarneiro/Excel12-Macro_FiltroAvancado.git)  | [Dashboard de People Analytics](https://github.com/dsCarneiro/PowerBI6.git) |
+| [Dashboard 4 do Serenato Café com PowerQuery](https://github.com/dsCarneiro/Excel09.2-DashBoard-com-PowerQuery.git)  | [Dashboard da Olist](https://github.com/dsCarneiro/PowerBI3.git)   |
 | [Primeiro projeto com PowerQuery](https://github.com/dsCarneiro/Excel08-PowerQuery.git)  | Content Cell  |
 | [Dashboard 3 do Serenato Café](https://github.com/dsCarneiro/Excel09-DashBoard-com-FiltroDeAno.git)  | Content Cell  |
 | [Primeiro projeto com PowerPivot](https://github.com/dsCarneiro/Excel06-PowerPivot.git)  | Content Cell  |
